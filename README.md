@@ -9,7 +9,7 @@
 - Software Engineer with 6 years of solid experience;
 - Currently, my job is focused on developing small to medium Android apps from scratch and deploying them to production;
 - My stack for new Android projects is Kotlin, Coroutines, MVVM, Retrofit, ConstraintLayout, Jetpack, and Koin/Dagger;
--I started my journey with android in 2016 and worked with different popular technologies at that time, so I am familiar with old/outdated technologies like AsyncTask, Volley, RelativeLayout, and RxJava;
+- I started my journey with android in 2016 and worked with different popular technologies at that time, so I am familiar with old technologies like AsyncTask, Volley, RelativeLayout, and RxJava;
 - Worked with Java for 2 years, and rewrote Android projects from Java to Kotlin;
 - Deployed and managed most of the projects I have worked with to GooglePlay and PlayStore;
 - Implemented subscription process for Android application, Google Analytics, and Firebase for tracking revenue and other analytics;
