@@ -1,6 +1,5 @@
 ### Welcome
 
-- 🌱 I’m currently learning - Android Jetpack Compose UI
 - 💬 Ask me about - Android development
 - 📫 Contacts -  [LinkedIn](https://www.linkedin.com/in/konstantyn-prysiazhnyi-031505138/)
 
