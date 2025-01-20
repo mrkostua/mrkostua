@@ -5,16 +5,14 @@
 - 📫 Contacts -  [LinkedIn](https://www.linkedin.com/in/konstantyn-prysiazhnyi-031505138/)
 
 ### About me:
-- Software Engineer with 6 years of solid experience;
-- Currently, my job is focused on developing small to medium Android apps from scratch and deploying them to production;
-- My stack for new Android projects is Kotlin, Coroutines, MVVM, Retrofit, ConstraintLayout, Jetpack, and Koin/Dagger;
-- I started my journey with android in 2016 and worked with different popular technologies at that time, so I am familiar with old technologies like AsyncTask, Volley, RelativeLayout, and RxJava;
-- Worked with Java for 2 years, and rewrote Android projects from Java to Kotlin;
-- Deployed and managed most of the projects I have worked with to GooglePlay and PlayStore;
-- Implemented subscription process for Android application, Google Analytics, and Firebase for tracking revenue and other analytics;
-- Big Experience with GoogleMaps and OpenStreetMap as clustering, POI, etc;
-- Communicated with designers using Figma, Adobe Xd, Zeplin, and others;
-- Have rewritten a big iOS project to multi-module architecture with a focus on reusing;
+I am a **Senior Android Software Engineer** with over 7 years of experience in designing, building, and
+maintaining high-quality Android applications. My expertise includes modern technologies such as Kotlin,
+**Compose** and **Coroutines**, with a strong focus on **multi-module architecture**, **MVVM**, **Clean Architecture**, and
+creating intuitive user experiences.
+I have a proven track record in **developing Android apps from scratch**, **maintaining large-scale projects**, and
+deploying production-ready solutions. Notably, I contributed to an app with over **1 million downloads**,
+demonstrating my ability to create scalable, high-performance, user-centric software.
+Additionally, I have experience in **iOS developmen**t, expanding my technical skill set and versatility.
 
 ### Technologies
 
